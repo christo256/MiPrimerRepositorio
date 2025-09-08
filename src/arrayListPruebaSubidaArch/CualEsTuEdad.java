@@ -7,7 +7,7 @@ public class CualEsTuEdad {
         // TODO Auto-generated method stub
 
 		/*
-		 *  MODIFICACION PARA PROBAR SI PUEDO SUBIR EL ARCHIVO DE LA NUVE AL PC LOCAL
+		 *  CKING
 		 */
 
 
